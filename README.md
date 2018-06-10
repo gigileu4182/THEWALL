@@ -47,3 +47,7 @@ http://qianpm.com/code/fanqianggongju/
 http://hanwp.github.io/2017/04/05/Vutrl%E6%90%AD%E5%BB%BAShadowSocks%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/
 http://www.gengzhibo.com/2017/02/05/vpn/
 http://www.zaihan.org/2017/03/09/VPNforSS/
+
+
+### 看这个网站的底部: 有提供翻墙的一些信息。
+http://www.forece.net/post/4207.htm
